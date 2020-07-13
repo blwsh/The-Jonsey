@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+![](https://media1.tenor.com/images/d818a41835d7cdf13107ea8928d5cbd2/tenor.gif?itemid=13723705)
 
 <!--
 **The-Jonsey/The-Jonsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
